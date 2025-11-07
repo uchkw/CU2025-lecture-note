@@ -34,4 +34,4 @@ pdf/ には，講義スライドが保存されています．
 ## 参考資料
 - Prof. Mary Wootters (Stanford University) – Stanford course CS250/EE387. [Algebraic Coding Theory](https://youtube.com/playlist?list=PLkvhuSoxwjI_UudECvFYArvG0cLbFlzSr&si=dnCPz4Lw1EFWmAdZ)
 
-
+講義の内容を拡張する意味で Lecture 4 から 7 の動画は参考になるので視聴しましょう．
